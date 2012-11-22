@@ -1,8 +1,4 @@
-This is a modified version of Adafruit's SSD1306 library for OLED displays. This version WILL NOT work with
-128x32 displays, and is SPECIFICALLY for 128x64. This version, however, uses hardware SPI for super-fast
-update speeds, especially when used with the Akafuino X microcontroller board. I have no current plans to
-re-implement I2C control or support for 128x32 displays with this port, but if you need it, drop me a line
-and I can look into it.
+This is a modified version of Adafruit's SSD1306 library for OLED displays. This version WILL NOT work with 128x32 displays, and is SPECIFICALLY for 128x64. This version, however, uses hardware SPI for super-fast update speeds, especially when used with the Akafuino X microcontroller board. I have no current plans to re-implement I2C control or support for 128x32 displays with this port, but if you need it, drop me a line and I can look into it.
 
 Pinout for Arduino Uno:
 	-Display Data to Arduino digital 11
