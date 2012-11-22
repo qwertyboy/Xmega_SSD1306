@@ -26,7 +26,7 @@ Scrolling code contributed by Michael Gregg
 BSD license, check license.txt for more information
 All text above must be included in any redistribution
 
-To download. click the DOWNLOADS button in the top right corner, rename the uncompressed folder Xmega_SSD1306. Check that the Adafruit_SSD1306 folder contains Adafruit_SSD1306.cpp and Adafruit_SSD1306.h
+To download. click the DOWNLOADS button in the top right corner, rename the uncompressed folder Xmega_SSD1306. Check that the Xmega_SSD1306 folder contains Xmega_SSD1306.cpp and Xmega_SSD1306.h
 
 Place the Xmega_SSD1306 library folder your <arduinosketchfolder>/libraries/ folder. You may need to create the libraries subfolder if its your first library. Restart the IDE.
 
